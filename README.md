@@ -1,4 +1,4 @@
-# Will it Snow Tomorrow 15 Years Ago?
+# Will it Snow Tomorrow 15 Years Ago? ![Snow Logo](https://example.com/snow-logo.png
 
 ## Overview
 
