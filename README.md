@@ -1,2 +1,2 @@
-# Will-IT-SNOW-
+# Will it snow?
 DataScience Challenge
